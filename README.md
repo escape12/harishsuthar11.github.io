@@ -1,2 +1,2 @@
 # harishsuthar11.github.io
-** Hey I am Harish Kumar Student at IIIT Vadodara.
+## Hey! I am Harish Kumar. I am a student at Indian Institute of Information Technology Vadodara (IIITV). I am pursuing B.Tech in Computer Science & Engineering (CSE)💻📌📍 and actively seeking internship opportunities 🚩✨. I have created a website to display my details an skills along with my picture. Programming languages used to create the website were HTML 🚀 and CSS 🚀. Hope you like my work and skills I've mentioned on my website 🎯✌☺😎
